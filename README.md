@@ -25,11 +25,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Informatics Engineering Graduate (*Cum Laude*) from **Universitas Mikroskil**[cite: 3]
-- 🚀 **Lead AI/ML Engineer (Division AI & Digitalization)** at **PT Premier Engineering Indonesia**[cite: 3]
-- 🏭 Specializing in end-to-end **Industrial Computer Vision**, **Edge AI Deployment**, and **Web-Based SCADA Systems**[cite: 3]
-- 🔌 Experienced in bridging real-time AI inference pipelines with industrial automation (**PLC, SCADA, MQTT, OPC UA, Modbus, & REST APIs**)[cite: 3]
-- 🎤 Technical Product Representative at international & national exhibitions (**PIPOC Kuala Lumpur, TPOMI, PALMEX**) & Active Tech Speaker[cite: 3]
+- 🎓 Informatics Engineering Graduate (*Cum Laude*) from **Universitas Mikroskil**
+- 🚀 **Lead AI/ML Engineer (Division AI & Digitalization)** at **PT Premier Engineering Indonesia**
+- 🏭 Specializing in end-to-end **Industrial Computer Vision**, **Edge AI Deployment**, and **Web-Based SCADA Systems**
+- 🔌 Experienced in bridging real-time AI inference pipelines with industrial automation (**PLC, SCADA, MQTT, OPC UA, Modbus, & REST APIs**)
+- 🎤 Technical Product Representative at international & national exhibitions (**PIPOC Kuala Lumpur, TPOMI, PALMEX**) & Active Tech Speaker
 
 ---
 
@@ -37,7 +37,7 @@
 
 > *Note: Due to client confidentiality and Non-Disclosure Agreements (NDA), the source codes and datasets for the following production systems are hosted in private enterprise organization repositories and deployed directly on factory edge/server infrastructures.*
 
-#### 1. IPOMAS — Intelligent Web-Based SCADA & Voice AI Engine
+#### 1. IPOMAS: Intelligent Web-Based SCADA & Voice AI Engine
 - **Web-Based SCADA Telemetry:** Real-time visualization and automation control for palm oil mill stations (monitoring sterilizer pressure, temperature, valve states, and automated holding-time recipes).
 - **IPOMAS AI Engine:** Integrated conversational AI chatbot and voice-navigation assistant for station diagnostics, SOP guidance, operational analysis, and predictive maintenance.
 
@@ -90,6 +90,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=definedbykevin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=definedbykevin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=definedbykevin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=definedbykevin&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=definedbykevin&theme=tokyonight" alt="Profile Summary" />
 </p>
