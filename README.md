@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hey!+I+am+Kevin+Arya+Swardhana+%F0%9F%91%8B;AI+Software+Engineer+%7C+Lead+AI%2FML+Engineer;Industrial+Computer+Vision+%26+Web+SCADA+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey!+I+am+Kevin+Arya+Swardhana+%F0%9F%91%8B;AI+Software+Engineer+%7C+Lead+AI%2FML+Engineer;Industrial+Computer+Vision+%26+Web+SCADA+Integration" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=definedbykevin&label=Profile%20Views&color=0e75b6&style=flat" alt="definedbykevin" />
+  <img src="https://komarev.com/ghpvc/?username=definedbykevin&label=Profile%20Views&color=0e75b6&style=flat&base=1700" alt="definedbykevin" />
 </p>
 
 ---
