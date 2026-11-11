@@ -28,14 +28,11 @@
   </a>
 </p>
 
-<!-- ==================== FUTURISTIC GRADIENT HUD PILLS ==================== -->
+<!-- ==================== COMPACT 3D HUD TELEMETRY STATUS BAR ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,50:0F2942,100:0284C7&height=30&section=header&text=⚡%20SYSTEM%20ONLINE%20//%20PRODUCTION%20READY&fontSize=12&fontColor=E0F2FE&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="System Status" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0284C7,50:0F2942,100:0B132B&height=30&section=header&text=🎯%20FOCUS%20//%20EDGE%20AI%20%26%20WEB%20SCADA&fontSize=12&fontColor=E0F2FE&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="Focus" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=definedbykevin&label=Profile%20Views&color=0284c7&style=flat&base=1700" alt="definedbykevin" />
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE_%2F%2F_PRODUCTION_READY-112240?style=plastic&labelColor=0B132B&logo=statuspage&logoColor=00F59B" alt="System Online" />
+  <img src="https://img.shields.io/badge/FOCUS-EDGE_AI_%26_WEB_SCADA-112240?style=plastic&labelColor=0B132B&logo=nvidia&logoColor=00E5FF" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=definedbykevin&label=PROFILE%20VIEWS&color=112240&style=plastic&base=1700" alt="Profile Views" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -72,13 +69,35 @@ engineer_profile:
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,tailwind,bootstrap" alt="Backend & Frameworks" />
 </p>
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,100:0369A1&height=32&section=header&text=📡%20MQTT%20Broker&fontSize=12&fontColor=F0F9FF&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="MQTT" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,100:0369A1&height=32&section=header&text=🔗%20OPC%20UA%20Protocol&fontSize=12&fontColor=F0F9FF&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="OPC UA" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,100:0369A1&height=32&section=header&text=⚡%20Modbus%20TCP/RTU&fontSize=12&fontColor=F0F9FF&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="Modbus TCP/RTU" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,100:0369A1&height=32&section=header&text=🎛️%20PLC%20%26%20SCADA%20Telemetry&fontSize=12&fontColor=F0F9FF&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="PLC & SCADA" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,100:0369A1&height=32&section=header&text=📹%20Multi-Stream%20RTSP&fontSize=12&fontColor=F0F9FF&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="RTSP Streaming" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/MQTT-112240?style=for-the-badge&labelColor=0B132B&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRTVGRiI+PGNpcmNsZSBjeD0iNSIgY3k9IjE5IiByPSIzIi8+PHBhdGggZD0iTTUgMTFhOCA4IDAgMCAxIDggOGgzYTExIDExIDAgMCAwLTExLTExdjN6bTAtNmExNCAxNCAwIDAgMSAxNCAxNGgzQTE3IDE3IDAgMCAwIDUgMnYzeiIvPjwvc3ZnPg==&logoSize=auto" alt="MQTT Broker" /><br />
+      <sub><b>MQTT Broker</b></sub><br />
+      <kbd>📡 Pub/Sub</kbd>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/OPC_UA-112240?style=for-the-badge&labelColor=0B132B&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRjU5QiI+PHBhdGggZD0iTTEyIDJMNCA3djEwbDggNSA4LTVWN2wtOC01em0wIDMuNWw1IDMuMXY2LjhsLTUgMy4xLTUtMy4xVjguNmw1LTMuMXoiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIi8+PC9zdmc+&logoSize=auto" alt="OPC UA Protocol" /><br />
+      <sub><b>OPC UA Protocol</b></sub><br />
+      <kbd>🔗 M2M Bridge</kbd>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/MODBUS-112240?style=for-the-badge&labelColor=0B132B&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRTVGRiI+PHBhdGggZD0iTTYgNmgxMnYxMkg2VjZ6bTMgM3Y2aDZWOUg5em0tNyAwaDJ2MkgyVjl6bTAgNGgydjJIMnYtMnptMTgtNGgydjJoLTJWOXptMCA0aDJ2MmgtMnYtMnpNOSAyaDJ2Mkg5VjJ6bTQgMGgydjJoLTJWMnpNOSAyMGgydjJIOXYtMnptNCAwaDJ2MmgtMnYtMnoiLz48L3N2Zz4=&logoSize=auto" alt="Modbus TCP/RTU" /><br />
+      <sub><b>Modbus TCP/RTU</b></sub><br />
+      <kbd>⚡ Field Bus</kbd>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/SCADA-112240?style=for-the-badge&labelColor=0B132B&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRjU5QiI+PHBhdGggZD0iTTMgM2gxOHYxOEgzVjN6bTIgMnYxNGgxNFY1SDV6bTIgOGgydjRIN3YtNHptNC00aDJ2OGgtMlY5em00IDJoMnY2aC0ydi02eiIvPjwvc3ZnPg==&logoSize=auto" alt="PLC & SCADA" /><br />
+      <sub><b>PLC & SCADA</b></sub><br />
+      <kbd>🎛️ Telemetry</kbd>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/RTSP-112240?style=for-the-badge&labelColor=0B132B&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRTVGRiI+PHBhdGggZD0iTTQgNmgxMnY0LjVsNC0zdjlsLTQtM1YxOEg0VjZ6bTIgMnY4aDhWOEg2eiIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iMTIiIHI9IjIiLz48L3N2Zz4=&logoSize=auto" alt="Multi-Stream RTSP" /><br />
+      <sub><b>Multi-Stream RTSP</b></sub><br />
+      <kbd>📹 AI Vision</kbd>
+    </td>
+  </tr>
+</table>
 
 #### 🗄️ Databases
 <p align="left">
