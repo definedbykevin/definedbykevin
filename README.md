@@ -8,31 +8,34 @@
 <!-- ==================== CYBER TYPING TELEMETRY ==================== -->
 <div align="center">
   <a href="https://github.com/definedbykevin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%3C+%7Bdefinedbykevin%7D+%2F%3E+%E2%80%94+SYSTEM+ONLINE;Kevin+Arya+Swardhana+%7C+Lead+AI%2FML+Engineer;Industrial+Computer+Vision+%26+Web-Based+SCADA+Architecture;Bridging+Real-Time+Edge+AI+with+Factory+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey!+I+am+Kevin+Arya+Swardhana+%F0%9F%91%8B;Lead+AI%2FML+Engineer+%7C+AI+Software+Engineer;Industrial+Computer+Vision+%26+Web-Based+SCADA+Integration;Bridging+Real-Time+Edge+AI+with+Factory+Automation" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- ==================== HUD SOCIAL & CREDENTIAL BADGES ==================== -->
+<!-- ==================== AUTHENTIC BRAND SOCIAL & CREDENTIAL BADGES ==================== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinaryaswardhana" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0B132B" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNUMzIDMuODk1IDMuODk1IDMgNSAzMDE0em0tLjUgMTUuNVYxM2MwLTIuNDI0LTEuMzA1LTQuMjM5LTMuNTI5LTQuMjM5LTEuNDI1IDAtMi4yNzMuNzg1LTIuNjU4IDEuNDk1VjkuMDFoLTIuNzkzYy4wMzcuNzkgMCA4LjQ5IDAgOC40OWgyLjc5M3YtNC43NDJjMC0uMjU0LjAxOS0uNTA3LjA5NC0uNjg4LjIwMi0uNTA3LjY2My0xLjAzMyAxLjQzNi0xLjAzMyAxLjAxMyAwIDEuNDE5Ljc3MyAxLjQxOSAxLjkwN3Y0LjU1NmgzLjIzOHpNNi44ODMgNy44NThjLjk3NSAwIDEuNTgzLS42NDUgMS41ODMtMS40NTEtLjAxOC0uODI0LS42MDgtMS40NTEtMS41NjQtMS40NTEtLjk1NiAwLTEuNTgzLjYyNy0xLjU4MyAxLjQ1MSAwIC44MDYuNjA4IDEuNDUxIDEuNTQ2IDEuNDUxaC4wMTh6bTEuMzk2IDEwLjY0MlY5LjAxSDUuNDg3djguNDloMi43OTJ6Ii8+PC9zdmc+&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/kevinarya_swardhana" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0F172A?style=for-the-badge&logo=instagram&logoColor=00F59B&labelColor=0B132B" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:kevinaryastarigan@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0B132B" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://drive.google.com/drive/folders/1Kt7QdHMi2MB1WkChQJonqsdbHNb2cFeh" target="_blank">
-    <img src="https://img.shields.io/badge/90%2B_CERTIFICATES-00E5FF?style=for-the-badge&logo=googledrive&logoColor=0B132B&labelColor=0F172A" alt="Certificates" />
+    <img src="https://img.shields.io/badge/90%2B_CERTIFICATES-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificates" />
   </a>
 </p>
 
-<!-- ==================== TELEMETRY STATUS BAR ==================== -->
+<!-- ==================== FUTURISTIC GRADIENT HUD PILLS ==================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-PRODUCTION_READY-00F59B?style=flat-square&logo=statuspage&logoColor=white&labelColor=0F172A" alt="Status" />
-  <img src="https://img.shields.io/badge/FOCUS-EDGE_AI_%26_WEB_SCADA-00E5FF?style=flat-square&logo=NVIDIA&logoColor=00F59B&labelColor=0F172A" alt="Focus" />
-  <img src="https://komarev.com/ghpvc/?username=definedbykevin&label=TELEMETRY%20VIEWS&color=00E5FF&style=flat-square&base=1700" alt="definedbykevin" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,50:0F2942,100:0284C7&height=30&section=header&text=⚡%20SYSTEM%20ONLINE%20//%20PRODUCTION%20READY&fontSize=12&fontColor=E0F2FE&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="System Status" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0284C7,50:0F2942,100:0B132B&height=30&section=header&text=🎯%20FOCUS%20//%20EDGE%20AI%20%26%20WEB%20SCADA&fontSize=12&fontColor=E0F2FE&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="Focus" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=definedbykevin&label=Profile%20Views&color=0284c7&style=flat&base=1700" alt="definedbykevin" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -61,29 +64,30 @@ engineer_profile:
 
 #### 🧠 Languages, AI & Computer Vision
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,scikitlearn,cpp,js,ts&theme=dark" alt="Languages, AI & Computer Vision" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,scikitlearn,cpp,js,ts" alt="Languages, AI & Computer Vision" />
 </p>
 
 #### ⚙️ Backend, Frameworks & Industrial Integration
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,tailwind,bootstrap&theme=dark" alt="Backend & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,tailwind,bootstrap" alt="Backend & Frameworks" />
 </p>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/MQTT-00E5FF?style=for-the-badge&logo=eclipsemosquitto&logoColor=00E5FF&labelColor=0F172A" alt="MQTT" />
-  <img src="https://img.shields.io/badge/OPC_UA-00F59B?style=for-the-badge&logo=openaccess&logoColor=00F59B&labelColor=0F172A" alt="OPC UA" />
-  <img src="https://img.shields.io/badge/MODBUS_TCP%2FRTU-00E5FF?style=for-the-badge&logo=raspberrypi&logoColor=00E5FF&labelColor=0F172A" alt="Modbus TCP/RTU" />
-  <img src="https://img.shields.io/badge/PLC_%26_SCADA-00F59B?style=for-the-badge&logo=siemens&logoColor=00F59B&labelColor=0F172A" alt="PLC & SCADA" />
-  <img src="https://img.shields.io/badge/RTSP_STREAMING-00E5FF?style=for-the-badge&logo=webrtc&logoColor=00E5FF&labelColor=0F172A" alt="RTSP Streaming" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,100:0369A1&height=32&section=header&text=📡%20MQTT%20Broker&fontSize=12&fontColor=F0F9FF&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="MQTT" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,100:0369A1&height=32&section=header&text=🔗%20OPC%20UA%20Protocol&fontSize=12&fontColor=F0F9FF&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="OPC UA" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,100:0369A1&height=32&section=header&text=⚡%20Modbus%20TCP/RTU&fontSize=12&fontColor=F0F9FF&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="Modbus TCP/RTU" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,100:0369A1&height=32&section=header&text=🎛️%20PLC%20%26%20SCADA%20Telemetry&fontSize=12&fontColor=F0F9FF&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="PLC & SCADA" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,100:0369A1&height=32&section=header&text=📹%20Multi-Stream%20RTSP&fontSize=12&fontColor=F0F9FF&fontAlignY=55&stroke=38BDF8&strokeWidth=1" alt="RTSP Streaming" />
 </p>
 
 #### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Databases" />
 </p>
 
 #### 🛠️ DevOps, Edge Deployment & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,pycharm,postman,gcp&theme=dark" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,pycharm,postman,gcp" alt="DevOps & Tools" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -97,8 +101,7 @@ engineer_profile:
     <td width="50%" valign="top">
       <h4>🎛️ 01. IPOMAS: Web-Based SCADA & Voice AI</h4>
       <p>
-        <img src="https://img.shields.io/badge/MODULE-WEB_SCADA_UI-00E5FF?style=flat-square&labelColor=0F172A" />
-        <img src="https://img.shields.io/badge/ENGINE-VOICE_%26_LLM-00F59B?style=flat-square&labelColor=0F172A" />
+        <kbd>🌐 MODULE // Web SCADA UI</kbd>&nbsp;&nbsp;<kbd>🎙️ ENGINE // Voice & LLM</kbd>
       </p>
       <ul>
         <li><b>Web-Based SCADA Telemetry:</b> Real-time visualization and automated control for palm oil mill stations (monitoring sterilizer pressure, temperature, valve states, and automated holding-time recipes).</li>
@@ -108,8 +111,7 @@ engineer_profile:
     <td width="50%" valign="top">
       <h4>🔍 02. Industrial AI Grading Systems</h4>
       <p>
-        <img src="https://img.shields.io/badge/MODULE-COMPUTER_VISION-00E5FF?style=flat-square&labelColor=0F172A" />
-        <img src="https://img.shields.io/badge/INFERENCE-REAL_TIME_EDGE-00F59B?style=flat-square&labelColor=0F172A" />
+        <kbd>👁️ MODULE // Computer Vision</kbd>&nbsp;&nbsp;<kbd>⚡ INFERENCE // Real-Time Edge</kbd>
       </p>
       <ul>
         <li><b>Grading Ramp Ripeness & Reject Classification:</b> Automated Fresh Fruit Bunch (FFB) ripeness grading and defective bunch rejection.</li>
@@ -123,8 +125,7 @@ engineer_profile:
     <td colspan="2" valign="top">
       <h4>🛡️ 03. Industrial AI Vision & Smart Surveillance Hub</h4>
       <p>
-        <img src="https://img.shields.io/badge/STREAM-MULTI_CHANNEL_RTSP-00E5FF?style=flat-square&labelColor=0F172A" />
-        <img src="https://img.shields.io/badge/INTEGRATION-PLC_%26_SCADA-00F59B?style=flat-square&labelColor=0F172A" />
+        <kbd>📹 STREAM // Multi-Channel RTSP</kbd>&nbsp;&nbsp;<kbd>🔌 INTEGRATION // PLC & SCADA</kbd>&nbsp;&nbsp;<kbd>🚨 ALERT // Real-Time Safety & ANPR</kbd>
       </p>
       <ul>
         <li><b>Multi-Station CCTV AI Streaming Hub:</b> Centralized RTSP video pipeline processing multi-channel CCTV feeds for low-latency real-time inference.</li>
@@ -141,16 +142,25 @@ engineer_profile:
 
 ### 📊 `SYSTEM.METRICS // GITHUB TELEMETRY`
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=definedbykevin&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00F59B&currStreakLabel=00E5FF" alt="GitHub Streak" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=definedbykevin&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=definedbykevin&theme=tokyonight" alt="Profile Summary" />
-</p>
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=definedbykevin&background=45,0B132B,0F2942&border=1E3A5F&stroke=1E3A5F&ring=00E5FF&fire=38BDF8&currStreakNum=FFFFFF&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=10" alt="GitHub Streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=definedbykevin&theme=github_dark" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=definedbykevin&bg_color=0B132B&color=94A3B8&line=00E5FF&point=FFFFFF&area=true&area_color=0284C7&hide_border=false&border_color=1E3A5F&radius=10&custom_title=SCADA%20TELEMETRY%20//%20REAL-TIME%20CONTRIBUTION%20WAVEFORM" alt="SCADA Telemetry Activity Graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=definedbykevin&theme=github_dark" alt="Profile Summary" />
+</div>
 
 <hr />
 
 <div align="center">
-  <code>&lt; {definedbykevin} /&gt; • Engineered for Industrial AI & Web SCADA Telemetry</code>
+  <kbd>&lt; {definedbykevin} /&gt;</kbd> &nbsp;•&nbsp; <code>Engineered for Industrial AI & Web SCADA Telemetry</code>
 </div>
